@@ -1,0 +1,5 @@
+4
+1) P. Ivanov 99
+2) V. Petrov 98
+3) P. Segeev 92
+4) K. Lozhkina 81
